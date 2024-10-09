@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
   "name": "ai-prompt",
   "version": "0.1.0",
   "private": true,
@@ -18,5 +19,12 @@
     "tailwindcss": "^3.4.1",
     "eslint": "^8",
     "eslint-config-next": "14.2.15"
+=======
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "mongodb": "^6.9.0",
+    "mongoose": "^8.7.1",
+    "next-auth": "^4.24.8"
+>>>>>>> 64fff4298207ac15de790a40c6e911f523d7fd75
   }
 }
